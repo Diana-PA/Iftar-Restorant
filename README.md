@@ -1,70 +1,16 @@
-# Getting Started with Create React App
+Iftar - Restaurante de Comida Árabe
+Bienvenido al README de Iftar, un restaurante de comida árabe que ofrece una experiencia culinaria auténtica y deliciosa. En este documento, encontrarás información importante sobre nuestro restaurante, nuestra misión, nuestra comida y nuestros servicios.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sobre Iftar
+Iftar es un restaurante de comida árabe que tiene como objetivo ofrecer una experiencia gastronómica auténtica y de alta calidad a todos nuestros clientes. Nos enorgullece servir una amplia variedad de platos tradicionales árabes, preparados con ingredientes frescos y de alta calidad. En Iftar, creemos que la comida es más que solo nutrición, es una expresión cultural y una forma de compartir y conectar con otros.
 
-## Available Scripts
+Nuestra Misión
+En Iftar, nuestra misión es proporcionar una experiencia culinaria auténtica y memorable que celebre la rica cultura y tradiciones de la comida árabe. Nos esforzamos por ofrecer platos deliciosos y auténticos que reflejen la diversidad y complejidad de la cocina árabe. Nos esforzamos por hacer que cada cliente se sienta bienvenido, cómodo y feliz en nuestro restaurante.
 
-In the project directory, you can run:
+Nuestra Comida
+En Iftar, ofrecemos una amplia variedad de platos árabes auténticos, incluyendo mezze, kebabs, shawarma, falafel, hummus, baba ghanoush y mucho más. Todos nuestros platos se preparan con ingredientes frescos y de alta calidad, y se cocinan de acuerdo con las técnicas culinarias tradicionales árabes para garantizar un sabor auténtico y delicioso.
 
-### `npm start`
+Nuestros Servicios
+En Iftar, nos esforzamos por brindar un servicio excepcional a todos nuestros clientes. Nuestro personal está altamente capacitado para ofrecer recomendaciones y responder a cualquier pregunta que tenga sobre nuestros platos o ingredientes. Ofrecemos opciones de comida para llevar y entregas para aquellos que prefieren disfrutar de nuestros platos desde la comodidad de su hogar. Además, nuestro ambiente cálido y acogedor lo invita a disfrutar de una cena relajante con familiares y amigos.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+¡Gracias por considerar a Iftar para su próxima comida! Esperamos verte pronto.
