@@ -1,7 +1,7 @@
 import { db } from '../firebase';
 import { useEffect, useState } from 'react';
 
-import { collection, getDocs, deleteDoc} from 'firebase/firestore';
+import { collection, getDocs, deleteDoc, doc} from 'firebase/firestore';
 
 const Pedidos = () => {
 
@@ -26,11 +26,10 @@ const Pedidos = () => {
     }, [list])
 
 
-    const eliminarDatos = async(id) => {
-          await deleteDoc(collection(db, "clientes", id));
-          console.log("Documento eliminado con éxito");
-      }
-
+    const eliminarDatos = async (id) => {
+        await deleteDoc(doc(db, 'clientes', id));
+        console.log('Usuario eliminado con éxito');
+      };
 
   return (
     <div className='container'>
@@ -47,12 +46,8 @@ const Pedidos = () => {
                                 <p>Dirección: {lista.direccion}</p>
                                 
 
-                                <button className="btn btn-danger" onClick={eliminarDatos(lista.id)}>
-                                    Eliminar
-                                </button>
-
-                                <button className="btn btn-success m-1">
-                                    Actualizar
+                                <button className="btn btn-secondary" onClick={() => eliminarDatos(lista.id)}>
+                                    Despachar
                                 </button>
                                 <hr />
                             </div>

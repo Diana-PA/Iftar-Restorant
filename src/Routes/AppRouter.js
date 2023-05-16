@@ -5,7 +5,6 @@ import Menu from "../Pages/Menu";
 import Pedidos from "../Pages/Pedidos";
 import Layout from "../Components/Layout/Layout";
 import Login from "../Components/Login/login.jsx"
-import Profile from "../Pages/Profile";
 
 
 const AppRouter = () => {
@@ -19,7 +18,6 @@ const AppRouter = () => {
                 <Route path="/pedidos" element={<Pedidos />} />   
                 <Route path="/login" element={<Login />} />
                 <Route path="/register" element={<Login />} />
-                <Route path="/profile" element={<Profile />} />
             </Route>
         </Routes>
     </>

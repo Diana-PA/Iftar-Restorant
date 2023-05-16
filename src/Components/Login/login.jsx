@@ -1,7 +1,7 @@
 import { useState } from "react";
-import image1 from '../../Assets/thisisengineering-raeng-sbVu5zitZt0-unsplash.jpg'
-import image2 from '../../Assets/thisisengineering-raeng-SyRlD4s_amw-unsplash.jpg'
-import image3 from '../../Assets/uriel-soberanes-MxVkWPiJALs-unsplash.jpg';
+import image1 from '../../Assets/ryan-miglinczy-fQtFfvedV-8-unsplash.jpeg';
+import image2 from '../../Assets/klaus-kreuer-cEgzSYT9IiI-unsplash.jpeg'
+import image3 from '../../Assets/mostafa-meraji-HfZtmWseR1A-unsplash.jpeg';
 
 import { createUserWithEmailAndPassword, signInWithEmailAndPassword} from 'firebase/auth';
 import { Navigate } from "react-router-dom";
